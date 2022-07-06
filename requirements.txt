@@ -15,7 +15,7 @@ Django==1.9.1
 dnspython==1.11.1
 duplicity==0.6.23
 enum34==1.1.2
-html5lib==0.999
+html5lib==0.999999999
 httplib2==0.8
 idna==2.0
 ipaddress==1.0.16
